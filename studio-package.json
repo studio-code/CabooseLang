@@ -1,0 +1,12 @@
+{
+	"name": "cabooseLang",
+	"title": "Caboose Language",
+	"author": "Arthur Guiot",
+	"description": "Caboose is a simple, dynamically typed, bytecode-based interpreted language built on top of a powerful VM.",
+	"image": "./logo.png",
+	"version": "1.0.0",
+	"git": "https://github.com/studio-code/CabooseLang",
+  	"type": "mode",
+	"main": "index.js",
+	"activation": ".*\\.cb$"
+}
